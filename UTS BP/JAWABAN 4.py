@@ -5,4 +5,4 @@ def main():
     for l1 in list1:
         for l2 in list2:
             print(f"{l1} {l2}")
-main()
+main() 

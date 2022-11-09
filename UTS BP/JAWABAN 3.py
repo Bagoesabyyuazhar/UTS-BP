@@ -1,4 +1,4 @@
-def UTS():
+def ():
     print("="*20)
     print("PROGRAM QUIZ")
     print("="*20)
@@ -6,4 +6,4 @@ def UTS():
     nim = int(input("Masukkan Nim : "))
     print("")
     print(f"Nama : {nama}\nNim : {nim}")
-UTS()
+() 

@@ -43,4 +43,4 @@ while True:
     elif pil == 3:
         break
     else:
-        print("pilihan salah")
+        print("pilihan salah") 
